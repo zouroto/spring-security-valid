@@ -2,6 +2,6 @@
 
 ![valid-entity](/valid-data.PNG)
 
-### spring-security-valid receive a 400 instead of 4503 when data is invalid and user doesn't have credentials 
+### spring-security-valid receive a 400 instead of 403 when data is invalid and user doesn't have credentials 
 
 ![valid entity](/invalid-data.PNG)
